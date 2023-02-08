@@ -26,7 +26,7 @@ header > h1{
 
 nav{
     grid-area: n;
-    background-color: lightsalmon;
+    background-color: lightcoral;
 }
 
 ul{
@@ -73,6 +73,7 @@ aside > img{
 
 footer{
     grid-area: f;
+    text-align: center;
 }
 
 br{
